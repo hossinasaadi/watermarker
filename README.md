@@ -11,3 +11,7 @@ $save = "basic_with_watermark.jpg";
 echo WaterMarker($image,$stamp,$save,"left","bottom");
 
 ```
+
+output :
+
+![alt WaterMarker](https://raw.githubusercontent.com/hossin277/watermarker/master/basic_with_watermark.jpg)
