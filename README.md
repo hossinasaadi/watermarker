@@ -1,7 +1,7 @@
 # watermarker
 simple PHP code to add watermark on your pictrues.
 
-```
+```php
 require_once('watermarker.class.php');
 
 $image = "images/basic.jpg";
