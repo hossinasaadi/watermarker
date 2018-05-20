@@ -13,5 +13,6 @@ echo WaterMarker($image,$stamp,$save,"left","bottom");
 ```
 
 output :
+</br>
   <img src="https://raw.githubusercontent.com/hossin277/watermarker/master/basic_with_watermark.jpg" width="350"/>
  
